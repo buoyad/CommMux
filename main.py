@@ -14,6 +14,12 @@ radio.port = '/dev/ttyUSB0'
 whoi.port = '/dev/ttyUSB1'
 apm.port = '/dev/ttyUSB2'
 
-radio.open()
-whoi.open()
-apm.open()
+def mavlink_receive():
+def radio_send( packet ):
+def modem_receive():
+def modem_send( sentence ):
+
+def modem_handle( d ):
+def mavlink_handle( packet ):
+
+def apm_send( packet ):
