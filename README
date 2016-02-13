@@ -1,0 +1,4 @@
+Naviator Multiplexer
+====================
+
+This program seamlessly switches listening between a radio and an acoustic modem and passes along appropriate messages to the Naviator's flight controller.
